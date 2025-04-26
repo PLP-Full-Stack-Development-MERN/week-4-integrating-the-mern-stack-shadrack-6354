@@ -12,12 +12,12 @@
 
 **Instructions:**
 
-1. **Setup the Project:**
+1. **Setup the Project:**...
    - Create a new project folder called `mern-task-manager`.
    - Initialize both backend and frontend directories within the project.
    - Install necessary dependencies such as Express, Mongoose, React, and Axios.
 
-2. **Backend Development:**
+2. **Backend Development:**...
    - Set up an Express server and connect to MongoDB.
    - Create a `Task` model with the following fields:
      - `title` (String, required)
@@ -31,7 +31,7 @@
      - Delete a task by ID
    - Use environment variables for database connection.
 
-3. **Frontend Development:**
+3. **Frontend Development:**...
    - Set up a React project and configure routing.
    - Create components:
      - `TaskList` to display all tasks.
